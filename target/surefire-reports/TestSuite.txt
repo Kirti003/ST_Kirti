@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 3.566 s <<< FAILURE! - in TestSuite
+getTitle(MavenJavasecond.MavenSecond.MavenTest)  Time elapsed: 0.005 s  <<< FAILURE!
+java.lang.NullPointerException
+	at MavenJavasecond.MavenSecond.MavenTest.getTitle(MavenTest.java:17)
+
+afterTest(MavenJavasecond.MavenSecond.MavenTest)  Time elapsed: 0.006 s  <<< FAILURE!
+java.lang.NullPointerException
+	at MavenJavasecond.MavenSecond.MavenTest.afterTest(MavenTest.java:29)
+
